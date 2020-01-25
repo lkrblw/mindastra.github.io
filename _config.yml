@@ -22,6 +22,7 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: mindastra
 github_username:  mindastra
 
+# Test comment
 # Build settings
 markdown: kramdown
 theme: jekyll-theme-tactile
