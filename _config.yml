@@ -24,7 +24,7 @@ github_username:  mindastra
 
 # Build settings
 markdown: kramdown
-theme: tactile
+theme: jekyll-theme-tactile
 plugins:
   - jekyll-feed
 
